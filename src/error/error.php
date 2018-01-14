@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: yann
- * Date: 22/11/17
- * Time: 18:22
- */
+
 
 return [
     'notFoundHandler' => function($c) {
